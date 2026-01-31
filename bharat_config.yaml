@@ -1,0 +1,9 @@
+model_name: "sentence-transformers/all-MiniLM-L6-v2"
+num_workers: 4
+max_retries: 3
+chunk_size: 300
+persistence_dir: "./ray_storage"
+api_route: "/bharat_rag"
+environment: "production_low_resource"
+ocr_enabled: true
+language_support: ["en", "hi"]

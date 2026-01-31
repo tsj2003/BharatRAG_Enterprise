@@ -1,0 +1,9 @@
+ray
+haystack-ai
+sentence-transformers
+pillow
+pyyaml
+chromadb
+pypdf
+fpdf
+streamlit
